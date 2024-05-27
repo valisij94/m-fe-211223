@@ -93,5 +93,7 @@ useEffect(() => {
 
 ### Полезные ссылки
 [Жизненный цикл компонента](https://javascript.plainenglish.io/react-lifecycle-methods-in-functional-components-db72e038bd2a) - со схемой и подробным описанием.
+
 [Официальная документация](https://react.dev/reference/react/useEffect#connecting-to-an-external-system) - информативно, с интерактивными примерами. Все "незнакомое", типа кастомных хуков и т.д. - пропускать.
+
 [Русскоязычный гайд](https://habr.com/ru/companies/rshb/articles/687364/) - толково, и с пояснением про ЖЦ компонента.
